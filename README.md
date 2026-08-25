@@ -40,23 +40,15 @@ O Arduino é responsável pelo processamento das informações e pelo controle d
 
 ## 💻 Código
 
-O código-fonte do projeto foi desenvolvido para o Arduino Uno e é responsável pela leitura do sensor de temperatura, controle do botão manual e acionamento do sistema de alerta.
 
-O código está disponível neste repositório.
 
 ## 🎥 Demonstração
 
-Vídeo demonstrando o funcionamento do projeto:
 
-**Link:** Em breve
 
 ## 👥 Autores
 
 - Bryan Brayan Lima
-- [Nome do integrante]
-- [Nome do integrante]
-- [Nome do integrante]
-
----
+- Nicólli 
 
 **Projeto acadêmico – 2026**
