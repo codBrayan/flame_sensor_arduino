@@ -48,7 +48,7 @@ O Arduino é responsável pelo processamento das informações e pelo controle d
 
 ## 👥 Autores
 
-- Bryan Brayan Lima
+- Brayan Lima
 - Nicólli Gomes
 
 **Projeto acadêmico – 2026**
